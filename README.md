@@ -1,1 +1,1 @@
-# Mechanical_Gradient_Seg-Meg-
+# Mechanical_Gradient_Seg
